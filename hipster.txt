@@ -1,2 +1,0 @@
-This command subl Filename.txt will create a new file with name as Filename.txt 
-otherwise will open an existing file with the same name if the file already exists.
