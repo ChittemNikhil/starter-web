@@ -13,3 +13,7 @@ deploying the sample code to github.
 ## Purpose
 
 Sample website with plenty of files for demos
+
+##Copyright
+
+Adding copy right notice
