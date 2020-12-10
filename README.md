@@ -22,3 +22,7 @@ Sample website with plenty of files for demos
 ##Copyright
 
 Adding copy right notice. Git stash all rights reserved
+
+##stash
+
+command stashing
